@@ -1,0 +1,17 @@
+{
+  "ID" : "B-01",
+  "Summary" : "При переключении языка веб-приложения на русский часть интерфейса остаётся на английском языке",
+  
+  "STR" : [
+            "Open link: https://best.aliexpress.ru/",
+            "Click on the country flag/region name",
+            "In the window that appears, find the name of the current language and replace it with Russian",
+            "In the same window that appears from below, click the 'save' button",
+    ],
+    "Result" : "Not all the inscriptions on the open page were translated into Russian. The information block in the basement of the page has not been translated into Russian (see attached screenshot).",
+    "Expected Result" : "The application language has been changed to Russian after the language change",
+    "Component" : "Main page",
+    "Severity" : "Minor",
+    "Priotity" : "Medium",
+    "Environment" : "Windows 10 Pro (x64), Google Chrome 96.0.4664.110",
+}
