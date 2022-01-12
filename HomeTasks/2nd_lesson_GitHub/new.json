@@ -1,1 +1,14 @@
+{
+	"name" : "Anton Trofimenko",
+	"age" : 40 ,
+	"married" : true,
+	"children": [
+		"Mikhail",
+		"Mark"
+	],
+	"cat" : "Myshka",
+	"dog" : null,
+	"profession" : "QA engineer",
+	"salary" : 1000
+}
 
