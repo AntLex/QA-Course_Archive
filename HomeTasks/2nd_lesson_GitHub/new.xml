@@ -1,0 +1,17 @@
+<?xml version='1.0" encoding="UTF-8 ?>
+<person>
+	<name>Anton Trofimenko</name>
+	<age>40</age>
+	<married>true</married>
+	<children>
+		<child>Mikhail</child>
+		<child>Mark</child>
+	</children>
+	<pets>
+		<cat>Myshka</cat>
+	
+		<dog>null</dog>
+	</pets>
+	<profession>QA engineer</profession>
+	<salary>1000</salary>
+</person>
