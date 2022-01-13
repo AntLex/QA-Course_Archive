@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Bug report>
+<Bug_report>
 	<id>B-01</id>
   <Summary>Part of the interface remains in English on the main page when switching the language of the web application to Russian</Summary>
   <STR>
@@ -9,9 +9,9 @@
     <step3>In the same window that appears from below, click the 'save' button</step3>
   </STR>
   <Result>Not all the inscriptions on the open page were translated into Russian. The information block in the basement of the page has not been translated into Russian (see attached screenshot)</Result>
-  <Expected Result>The application language has been changed to Russian after the language change</Expected Result>
+  <Expected_Result>The application language has been changed to Russian after the language change</Expected_Result>
   <Component>Main page</Component>
   <Severity>Minor</Severity>
   <Priotity>Medium</Priotity>
   <Environment>Windows 10 Pro (x64), Google Chrome 96.0.4664.110</Environment>
-</Bug report>
+</Bug_report>
