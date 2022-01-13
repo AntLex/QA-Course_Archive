@@ -1,6 +1,6 @@
 {
   "ID" : "B-01",
-  "Summary" : "При переключении языка веб-приложения на русский часть интерфейса остаётся на английском языке",
+  "Summary" : "Part of the interface remains in English on the main page when switching the language of the web application to Russian",
   
   "STR" : [
             "Open link: https://best.aliexpress.ru/",
