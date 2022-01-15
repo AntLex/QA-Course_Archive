@@ -1,0 +1,13 @@
+Bug Report.
+
+id:
+Summary:
+STR:
+Result:
+ExpectedResult:
+Severity:
+Priority:
+Component:
+Environment:
+Tester:
+Signed to:
