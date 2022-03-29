@@ -84,16 +84,26 @@
 `# !/bin/bash`
 
 `mkdir START`
+
 `cd StART`
+
 `mkdir F01 F02 F03`
+
 `cd F01`
+
 `touch file01.txt file02.txt file03.txt file04.json file05.json`
+
 `mkdir folder01_in_F01 folder02_in_F01 folder03_in_F01`
+
 `ls`
+
 `mv file01.txt file02.txt folder03_in_F01`
 
+
 в) запускаем:
+
 `bash script` - всё исполняется!
+
 
 #### *Еще команды:*
 + **GREP - поиск текста в файлах.**
